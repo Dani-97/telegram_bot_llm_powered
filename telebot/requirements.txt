@@ -1,0 +1,6 @@
+# coqui-tts==0.26.0
+ollama==0.4.8
+pydub==0.25.1
+pyTelegramBotAPI==4.27.0
+SpeechRecognition==3.14.3
+text-to-speech==1.6.1
